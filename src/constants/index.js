@@ -16,7 +16,7 @@ const navLinks = [
 const socialLinks = [
     { name: "LinkedIn", link: "https://www.linkedin.com/in/hitakshikharag/", icon: "/images/linkedin.png" },
     { name: "GitHub", link: "https://github.com/hitakshi13", icon: "/images/github1.png" },
-    { name: "Gmail", link: "hitakshikharag@gmail.com", icon: "/images/gmail.png" },
+    { name: "Gmail", link: "mailto:hitakshikharag@gmail.com", icon: "/images/gmail.png" },
 ];
 
 const words = [
