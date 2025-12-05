@@ -56,24 +56,27 @@ const Hero = () => {
                             for code.
                         </p>
 
-                        <div className="flex gap-5">
-                            {/* Scroll Button */}
-                            <Button
-                                text="See My Work"
-                                className="md:w-80 md:h-16 w-60 h-12"
-                                action="scroll"
-                                targetId="counter"
-                                id="#projects"
-                            />
+<div className="flex flex-col sm:flex-row gap-3 sm:gap-5 w-full">
+    {/* Scroll Button */}
+    <Button
+        text="See My Work"
+        className="w-full sm:w-auto sm:min-w-[12rem] md:w-80 h-12 md:h-16"
+        action="scroll"
+        targetId="counter"
+        id="#projects"
+    />
 
-                            {/* Download Button */}
-                            <Button
-                                text="Download Resume"
-                                className="md:w-80 md:h-16 w-60 h-12"
-                                action="download"
-                                filePath="/Hitakshi_Kharag_Resume.pdf"
-                            />
-                        </div>
+    {/* Download Button */}
+    <Button
+        text="Download Resume"
+        className="w-full sm:w-auto sm:min-w-[12rem] md:w-80 h-12 md:h-16"
+        action="download"
+        filePath="/HitakshiKharag_resume.pdf"
+    />
+</div>
+
+
+
                     </div>
                 </header>
 

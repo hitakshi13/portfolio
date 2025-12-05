@@ -91,7 +91,7 @@ const Education = () => {
 
     return (
         <section
-            id="experience"
+            id="education"
             className="w-full h-full px-5 md:px-20 xl:px-0"
         >
             <div className="w-full h-full md:px-20 px-5">
