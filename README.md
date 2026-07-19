@@ -1,12 +1,176 @@
-# React + Vite
+# 💼 Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive developer portfolio built to showcase my projects, technical skills, achievements, and experience. Designed with a clean UI, smooth animations, and dark mode support, this portfolio serves as my personal website and professional online presence.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 👋 Interactive hero section
+- 👩‍💻 About Me section
+- 🛠️ Skills showcase
+- 📂 Featured projects with GitHub links
+- 🏆 Education & achievements
+- 📄 Resume download
+- 📬 Contact section
+- 🌙 Dark/Light theme support
+- 📱 Fully responsive design
+- ✨ Smooth animations and transitions
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+
+### UI & Styling
+- CSS Modules
+- Responsive Design
+- Custom Animations
+
+### Icons & Assets
+- React Icons
+- SVG Assets
+
+### Version Control
+- Git
+- GitHub
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+│── assets/
+│── components/
+│── data/
+│── styles/
+│── utils/
+│── App.tsx
+│── main.tsx
+
+public/
+```
+
+---
+
+## ⚙️ Installation
+
+### Clone the repository
+
+```bash
+git clone https://github.com/hitakshi13/portfolio.git
+```
+
+### Navigate to the project
+
+```bash
+cd portfolio
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Start the development server
+
+```bash
+npm run dev
+```
+
+Visit:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 🎯 Sections
+
+- Home
+- About
+- Skills
+- Projects
+- Education
+- Resume
+- Contact
+
+---
+
+## 📸 Screenshots
+
+Add screenshots for:
+
+- Home Page
+- About Section
+- Skills Section
+- Projects Section
+- Contact Section
+- Mobile View
+
+---
+
+## 🚀 Future Improvements
+
+- Blog section
+- Project filtering
+- Interactive project demos
+- Visitor analytics
+- Contact form integration
+- Multi-language support
+- Performance optimizations
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+
+2. Create a feature branch
+
+```bash
+git checkout -b feature-name
+```
+
+3. Commit your changes
+
+```bash
+git commit -m "Add feature"
+```
+
+4. Push the branch
+
+```bash
+git push origin feature-name
+```
+
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👩‍💻 Author
+
+**Hitakshi Kharag**
+
+- GitHub: https://github.com/hitakshi13
+- LinkedIn: https://www.linkedin.com/in/hitakshikharag/
+
+---
+
+⭐ If you like this project, don't forget to leave a star!
