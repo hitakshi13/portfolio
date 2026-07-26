@@ -143,7 +143,7 @@ const eduCards = [
         title: "Bachelor of Engineering in Computer Engineering",
         institution: "PCCOER College, Pune",
         date: "2023 – 2027",
-        result: "CGPA: 9.82 (Till 2nd Year)",
+        result: "CGPA: 9.86 (Till 5th Sem)",
         logoPath: "images/logos/college.png",
     },
     {
